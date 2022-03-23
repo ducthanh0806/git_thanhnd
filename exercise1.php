@@ -35,3 +35,4 @@
     echo "</br>";
     checkString("file2.txt");    //Chuỗi không hợp lệ
     
+    
